@@ -1,5 +1,7 @@
 # Legal Document Analyzer (LegalNER Extended)
 
+**Live demo:** https://huggingface.co/spaces/ssanskar9/legal-ner
+
 Upload a contract and get a plain-language summary, key obligations, red-flag clauses and deadlines.
 
 ## How it works
