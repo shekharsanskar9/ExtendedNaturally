@@ -10,7 +10,7 @@ pinned: false
 
 # Legal Document Analyzer (LegalNER Extended)
 
-**Live demo:** https://huggingface.co/spaces/ssanskar9/legal-ner
+**Live demo:** https://huggingface.co/spaces/ssanskar9/Legal_NER
 
 Upload a contract and get a plain-language summary, key obligations, red-flag clauses and deadlines.
 

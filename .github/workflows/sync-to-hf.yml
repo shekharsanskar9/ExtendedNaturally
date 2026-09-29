@@ -15,4 +15,4 @@ jobs:
       - name: Push to Hugging Face Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://ssanskar9:$HF_TOKEN@huggingface.co/spaces/ssanskar9/legal-ner main
+        run: git push --force https://ssanskar9:$HF_TOKEN@huggingface.co/spaces/ssanskar9/Legal_NER main
