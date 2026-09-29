@@ -1,0 +1,69 @@
+FREELANCE SERVICES AGREEMENT
+
+This Agreement is made on 1 October 2026 at Bengaluru, Karnataka, between:
+
+(1) Kaveri Digital Solutions Private Limited, a company incorporated under the Companies Act, 2013, having its registered office at 14 MG Road, Bengaluru 560001 (the "Company"); and
+
+(2) Rohan Mehta, an individual residing at 22 Civil Lines, Patna, Bihar 800001 (the "Consultant").
+
+The Company and the Consultant are together called the "Parties".
+
+1. Services
+1.1 The Consultant shall develop and deliver a mobile application for the Company as described in Schedule A (the "Services").
+1.2 The Consultant shall deliver the first working version of the application by 15 December 2026 and the final version by 28 February 2027.
+1.3 The Company may change the scope of the Services at any time by email, and the Consultant shall complete the changed work without any change in fees.
+
+2. Fees and Payment
+2.1 The Company shall pay the Consultant a total fee of Rs. 3,00,000 (Rupees three lakh only), exclusive of GST.
+2.2 The fee shall be paid only after the final version is accepted by the Company. The Company shall pay within 90 days of acceptance.
+2.3 The Company may deduct tax at source as required under the Income-tax Act, 1961, and may withhold any amount it considers reasonable if it is not satisfied with the work.
+2.4 If the Consultant delivers any milestone late, the Consultant shall pay the Company a penalty of 2% of the total fee for every day of delay, without any upper limit.
+
+3. Term and Renewal
+3.1 This Agreement begins on 1 October 2026 and continues for 12 months.
+3.2 This Agreement renews automatically for further periods of 12 months each, unless the Consultant gives written notice of non-renewal at least 90 days before the end of the then-current term.
+
+4. Termination
+4.1 The Company may terminate this Agreement at any time, for any reason, without notice and without paying for work already done.
+4.2 The Consultant may terminate this Agreement only by giving 120 days' written notice and only after completing all pending work.
+
+5. Intellectual Property
+5.1 All work, ideas, code, designs and materials created by the Consultant, whether or not connected with the Services and whether created during or after the term, shall belong exclusively to the Company.
+5.2 The Consultant waives all moral rights in the work and shall not use any part of it in any other project, even for another client.
+
+6. Confidentiality
+6.1 The Consultant shall keep all information relating to the Company confidential for a period of 10 years after the end of this Agreement.
+6.2 The Consultant shall return or destroy all confidential material within 7 days of a written request from the Company.
+
+7. Non-Compete and Exclusivity
+7.1 During the term and for 3 years after it ends, the Consultant shall not provide services to any other company in the software or technology industry anywhere in India.
+7.2 The Consultant shall not work for any other client during the term without the prior written consent of the Company.
+
+8. Liability and Indemnity
+8.1 The Consultant shall indemnify the Company against all losses, damages, claims, costs and expenses of any kind arising from or connected with the Services, without any limit on the amount.
+8.2 The Company's total liability to the Consultant under this Agreement shall not exceed Rs. 10,000.
+
+9. Amendments
+9.1 The Company may amend any term of this Agreement by giving notice to the Consultant, and the amended terms shall apply from the date stated in the notice.
+
+10. Data Protection
+10.1 The Consultant shall handle any personal data received from the Company in accordance with the Information Technology Act, 2000 and applicable rules, and shall report any data breach to the Company within 24 hours of becoming aware of it.
+
+11. Dispute Resolution and Governing Law
+11.1 This Agreement is governed by the laws of India, including the Indian Contract Act, 1872.
+11.2 Any dispute shall be settled by arbitration under the Arbitration and Conciliation Act, 1996, before a sole arbitrator appointed by the Company. The seat of arbitration shall be Mumbai, and the courts at Mumbai shall have exclusive jurisdiction.
+
+12. Force Majeure
+12.1 Neither Party shall be liable for delay caused by events beyond its reasonable control, such as natural disasters. This clause does not apply to the Consultant's delivery deadlines.
+
+13. Notices
+13.1 All notices shall be in writing and sent to the addresses given above. A notice sent by email is deemed received on the day it is sent.
+
+14. General
+14.1 This Agreement is the entire agreement between the Parties and replaces all earlier discussions.
+14.2 If any part of this Agreement is found unenforceable, the rest shall remain in force.
+
+Signed by the Parties on the date first written above.
+
+For Kaveri Digital Solutions Private Limited        Rohan Mehta
+Authorised Signatory                                 Consultant
