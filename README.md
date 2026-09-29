@@ -6,6 +6,7 @@ colorTo: indigo
 sdk: gradio
 app_file: app.py
 pinned: false
+license: mit
 ---
 
 # Legal Document Analyzer (LegalNER Extended)
@@ -48,3 +49,7 @@ Optional: set `GEMINI_MODEL` to use a different Gemini model (default is a Flash
 - Very long documents are truncated (200,000 characters).
 - The prompt targets contracts governed by Indian law.
 - This is an automated analysis, not legal advice. Have a qualified lawyer review important contracts.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
