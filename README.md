@@ -1,3 +1,13 @@
+---
+title: Legal NER
+emoji: ⚖️
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+app_file: app.py
+pinned: false
+---
+
 # Legal Document Analyzer (LegalNER Extended)
 
 **Live demo:** https://huggingface.co/spaces/ssanskar9/legal-ner
